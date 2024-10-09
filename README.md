@@ -48,7 +48,9 @@ This is a graphical Hangman game built using Python and Tkinter. Players guess l
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/73e9b3a1-a596-4a57-ae67-1ee8df70b02a)
+![Gameplay](https://github.com/user-attachments/assets/73e9b3a1-a596-4a57-ae67-1ee8df70b02a)
+![Lost](https://github.com/user-attachments/assets/84d2ae0d-686e-4e20-8a5a-6c6bce3acb9c)
+![Won](https://github.com/user-attachments/assets/4f6a8072-1eb0-4941-b690-8f920a525726)
 
 
 ## Future Improvements
