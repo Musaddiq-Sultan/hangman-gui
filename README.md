@@ -26,9 +26,13 @@ This is a graphical Hangman game built using Python and Tkinter. Players guess l
 3. Install the required dependencies:
     ### Tkinter
    On Debain based Linux (Ubuntu/Mint/Deepin/Kali)
-```sudo apt install python3-tk```
+   ```bash
+   sudo apt install python3-tk
+   ```
    On Arch based Linux (EndeavourOS/Manjaro/Artix/Garuda)
-```sudo pacman -Sy tk```
+   ```bash
+   sudo pacman -Sy tk
+   ```
 
 5. Run the game:
     ```bash
@@ -55,4 +59,25 @@ This is a graphical Hangman game built using Python and Tkinter. Players guess l
 
 ## License
 
-This project is licensed under the MIT License.
+MIT License
+
+Copyright (c) [2024] [Musaddiq Sultan]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
