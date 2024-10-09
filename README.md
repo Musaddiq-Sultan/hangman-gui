@@ -15,7 +15,7 @@ This is a graphical Hangman game built using Python and Tkinter. Players guess l
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/hangman-gui.git
+    git clone https://github.com/Musaddiq-Sultan/hangman-gui.git
     ```
    
 2. Navigate to the project folder:
