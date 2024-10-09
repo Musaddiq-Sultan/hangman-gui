@@ -24,11 +24,15 @@ This is a graphical Hangman game built using Python and Tkinter. Players guess l
     ```
 
 3. Install the required dependencies:
-    Tkinter
+    ### Tkinter
+   On Debain based Linux (Ubuntu/Mint/Deepin/Kali)
+```sudo apt install python3-tk```
+   On Arch based Linux (EndeavourOS/Manjaro/Artix/Garuda)
+```sudo pacman -Sy tk```
 
-4. Run the game:
+5. Run the game:
     ```bash
-    python hangman.py
+    python main.py
     ```
 
 ## How to Play
